@@ -74,7 +74,7 @@ int main() {
     m1.setNumBooksBought(10);
     m1.setAmountSpent(200.0);
 
-    cout << "\nUpdated Member Details:"<<endl;
+    cout << "\nUpdated Member Information:"<<endl;
     m1.show();
 
     return 0;
